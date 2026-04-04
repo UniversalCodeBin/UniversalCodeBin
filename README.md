@@ -12,7 +12,8 @@
 
 First-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong interest in Python development, AI applications, and software engineering. Experienced in building practical projects including AI assistants, chatbots, and automation tools. Passionate about solving real-world problems through code and continuously improving programming, problem-solving, and system design skills.
 
-- 🏢 Working at **Francis Xavier Engineering College** in **Tirunelveli, India**
+- 🏢 Student at **Francis Xavier Engineering College** in **Tirunelveli, India**
+- 🎓 Currently pursuing a **B.Tech degree in Artificial Intelligence & Data Science**
 - 🌱 Currently learning **Python Automation**
 - 💬 Ask me about **Python development, AI applications, problem-solving techniques**
 - ⚡ Enjoys coding challenges, participating in hackathons, and tech blogging. Also plays chess and enjoys drawing.
