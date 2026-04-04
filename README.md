@@ -4,7 +4,7 @@
 
 # Hey, I'm SHRIRAM R!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Software%20Engineer;Python%20Automation;Based%20in%20Tirunelveli%2C%20India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring%20Software%20Engineer;Web%Development;Based%20in%20Tiruchirappalli%2C%20India)](https://git.io/typing-svg)
 
 </div>
 
